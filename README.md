@@ -29,7 +29,7 @@ I try to have keystrokes that simulate Emacs and [tmux](https://github.com/tmux/
 - `n` next group
 - `p` previous group
 - `&` kill group and its windows
--
+
 ## Frames
 
 - `0` close split
