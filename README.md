@@ -4,6 +4,8 @@ This is my setup for the [StumpWM](https://stumpwm.github.io/) window manager.
 
 I try to have keystrokes that simulate Emacs and [tmux](https://github.com/tmux/tmux/wiki) in order to reduce the learning curve. All keystrokes are preceded by `C-t`.
 
+Using [org-roam-ui](https://github.com/org-roam/org-roam-ui), you can [navigate a tree visualizing](https://enzuru.github.io/lisp-user-space/) how my [Lisp user space](https://github.com/enzuru) tools work together on the [GNU operating system](https://gnu.org).
+
 ## Help
 
 - `?` get help
