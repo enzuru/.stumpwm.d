@@ -38,7 +38,3 @@ I try to have keystrokes that simulate Emacs and [tmux](https://github.com/tmux/
 - `%` or `3` horizontal split and new term
 - `o` move to next frame
 - `x` kill and remove split
-
-## License
-
-Licensed under the GPLv3; copyright is assigned to my eponymous charity [enzu.ru](https://enzu.ru)
