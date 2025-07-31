@@ -124,7 +124,6 @@
 
 (defcommand setup-workspaces () ()
   (run-shell-command (format nil "xsetroot -solid \"~$\"" *background-color*))
-
   (setup-workspace-emacs)
   (setup-workspace-monitoring)
   ;; (setup-workspace-llm)
